@@ -1,0 +1,9 @@
+numba
+numpy
+biopython
+dask
+distributed
+textual
+pynvml
+pytest
+matplotlib
